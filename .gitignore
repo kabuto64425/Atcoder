@@ -1,0 +1,8 @@
+*.out
+*.exe
+PAST/*
+other/paiza/*
+IHC/tester/*
+AHC/*/tools*/*
+*.zip
+*.sh
